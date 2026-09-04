@@ -1,0 +1,11 @@
+.venv/
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+*.s1p
+*.s2p
+calibration.json
